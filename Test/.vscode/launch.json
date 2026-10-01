@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "My sandbox",
+      "type": "al",
+      "request": "launch",
+      "environmentType": "Sandbox",
+      "environmentName": "SandboxZamundi2",
+      "tenant": "3b42d5c4-3a8b-49bc-b70e-59eb35a37cc9",
+      "schemaUpdateMode": "ForceSync",
+      "breakOnError": "All",
+      "launchBrowser": true
+    }
+  ]
+}

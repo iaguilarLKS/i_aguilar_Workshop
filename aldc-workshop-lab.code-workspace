@@ -7,6 +7,12 @@
     {
       "name": "BCQuality (clone in ../bcquality)",
       "path": "../bcquality"
+    },
+    {
+      "path": "App"
+    },
+    {
+      "path": "Test"
     }
   ],
   "settings": {
